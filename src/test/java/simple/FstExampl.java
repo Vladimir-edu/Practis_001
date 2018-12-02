@@ -8,7 +8,7 @@ import org.junit.runners.Suite;
 public class FstExampl {
     @Test
     public void test1(){
-        System.out.println("Test1");
+        System.out.println("Test11");
     }
     @Test
     public void test2(){
